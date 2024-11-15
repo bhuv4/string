@@ -27,5 +27,5 @@ int main(){
     cin>>x;
     int ans = 1;
     lastOccLTR(s,x,0,ans);
-    cout<<ans<<endl;//
+    cout<<ans<<endl;
 }
